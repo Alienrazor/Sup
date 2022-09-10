@@ -7,9 +7,7 @@
 <!--  <img alt="profile pic" width="195px" src="https://avatars2.githubusercontent.com/u/26059688?s=460&u=d41b000a62eab50d000c3da604d151cec27bd850&v=4" />  -->
 <!--  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Alienrazor&hide=ruby,perl&hide_border=true" />  -->
 </p>
-<p align="center">
-<a href="#"><img title="WhatsApp Num" src="https://img.shields.io/badge/WhatsApp%20Num-03094161457-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
+
 <p align="center">
 <p align="center">
 <p align="center">
